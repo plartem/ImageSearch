@@ -1,0 +1,59 @@
+PODS:
+  - CCBottomRefreshControl (0.5.2)
+  - CropViewController (2.6.1)
+  - Hero (1.6.1)
+  - Kingfisher (7.2.1)
+  - netfox (1.21.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SnapKit (5.0.1)
+  - SnapshotTesting (1.9.0)
+  - SwiftyMenu (1.0.1):
+    - SnapKit (~> 5.0.1)
+
+DEPENDENCIES:
+  - CCBottomRefreshControl
+  - CropViewController
+  - Hero
+  - Kingfisher (~> 7.0)
+  - netfox
+  - RxCocoa (= 6.5.0)
+  - RxSwift (= 6.5.0)
+  - SnapKit (~> 5.0.0)
+  - SnapshotTesting (~> 1.9.0)
+  - SwiftyMenu (~> 1.0.1)
+
+SPEC REPOS:
+  trunk:
+    - CCBottomRefreshControl
+    - CropViewController
+    - Hero
+    - Kingfisher
+    - netfox
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SnapshotTesting
+    - SwiftyMenu
+
+SPEC CHECKSUMS:
+  CCBottomRefreshControl: 389780b4488321c91d18f66a6da5ef9606df6de5
+  CropViewController: 58fb440f30dac788b129d2a1f24cffdcb102669c
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  Kingfisher: 7c084bebf7d548c623ad41bcf765fb200efed369
+  netfox: 9d5cc727fe7576c4c7688a2504618a156b7d44b7
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SnapshotTesting: 6141c48b6aa76ead61431ca665c14ab9a066c53b
+  SwiftyMenu: bffdad1aa7de3a5faf3dc218c989b112a804299b
+
+PODFILE CHECKSUM: 17c04ecff0c79460113118abab7809071e385b67
+
+COCOAPODS: 1.11.2
